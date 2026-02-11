@@ -1604,6 +1604,7 @@ setTimeout(() => {
 
 </div>
 
+
 <div class="section">
 <h2>6. Physical States at Room Temperature</h2>
 
@@ -1672,24 +1673,29 @@ setTimeout(() => {
 
 <!-- ================= PART 1 ================= -->
 
-<h3>Like Dissolves Like — Why Some Substances Mix and Others Don't</h3>
+<h3>Like Dissolves Like: Why Some Substances Mix and Others Don't</h3>
 
 <p class="highlight">
-<strong>Main Idea:</strong> Substances dissolve best when their molecules attract each other in similar ways. This is becasue when a solvent has the same type of intermolecular force, they can react with each other and pull each other apart, allowing them to mix. If they have different types of intermolecular forces, they won't interact well, so they won't dissolve in each other.
+<strong>Main Idea:</strong> Substances dissolve best when their molecules attract each other in similar ways. This is becasue when a solvent has the same type of intermolecular force, they can react with each other and pull each other apart or combine, allowing them to mix. If they have different types of intermolecular forces, they won't interact well because their forces won't cooperate, so they won't dissolve in each other.
 </p>
 
 
 
 <p>
- Think of it like magnets: pieces that attract stick together, while pieces that don't… drift apart.
+Think of it like magnets: pieces that attract stick together, while pieces that don't tend to seperate.
 Molecules behave the same way.
 </p>
 
-<h4>⚡ Polarity Controls Solubility</h4>
+<h4>Polarity Controls Solubility:</h4>
 
-<ul>
-<li><b>Polar molecules</b> have slightly positive and negative ends.</li>
-<li><b>Nonpolar molecules</b> share electrons evenly.</li>
+<p>
+Polar substances dissolve well in polar solvents (like water) because their partial charges attract each other through dipole–dipole forces or hydrogen bonding and they can thus interact and dissolve by pulling apart each others electrons.
+</p>
+
+<p>
+Nonpolar substances do not dissolve well in polar solvents because they cannot form strong attractions with polar molecules, so the nonpolar solvent molecules stay bonded to each other rather than surround and separate the nonpolar particles becasue the two simply do not have the same type of intermolecular forces to interact with each other. The LDF forces of tehe nonpolar molecule do not have the strength to take apart and replace stronger polar bonds.
+</p>
+
 </ul>
 
 <p>
@@ -1700,91 +1706,96 @@ Because of this, polar molecules are strongly attracted to other polar molecules
 
 <div class="comparison-card">
 <h4>Polar + Polar</h4>
-<p>✅ Dissolves Well</p>
-<p>Opposite partial charges attract and pull particles apart.</p>
-<p><b>Example:</b> Sugar in water</p>
+<p> Dissolves Well</p>
+<p>Opposite partial charges attract and pull particles apart and combine within the two compounds.</p>
+<p><b>Example:</b> Sugar (C₆H₁₂O₆) in Water (H₂O): Sugar has many OH groups that form hydrogen bonds with water molecules, allowing water to surround and dissolve the sugar molecules when the two pull each other apart and bond.</p>
 </div>
 
 <div class="comparison-card">
-<h4>Nonpolar + Polar</h4>
-<p>❌ Does NOT Dissolve</p>
-<p>Water molecules stick to each other instead of the nonpolar substance.</p>
-<p><b>Example:</b> Oil in water</p>
+<h4>Nonpolar + Polar </h4>
+<p> Does not Dissolve </p>
+<p>The nonpolar substance only has weak London Dispersion Forces, which does not have the strenth  to pull apart and mix with water's strong hydrogen bonds. Water molecules prefer to stay bonded to each other rather than interact with the nonpolar substance.</p>
+<p><b>Example:</b> Oil (C₈H₁₈) in Water (H₂O): Oil molecules have no partial charges and cannot form hydrogen bonds with water due to water's polar charges, so they separate and float on the surface instead of dissolving because they do not interact with the water.</p>
 </div>
 
 <div class="comparison-card">
 <h4>Polar + Nonpolar</h4>
-<p>❌ Does NOT Dissolve</p>
-<p>Nonpolar solvents cannot stabilize charged regions.</p>
-<p><b>Example:</b> Salt in gasoline</p>
+<p> Does not Dissolve</p>
+<p>The polar substance has partial charges that need to interact with other partial charges through dipole-dipole forces or hydrogen bonding. Nonpolar solvents only have weak LDF and cannot stabilize these charged atoms, so the polar substance will not dissolve.</p>
+<p><b>Example:</b> Salt (NaCl) in Gasoline (C₈H₁₈): The ionic charges on Na⁺ and Cl⁻ require strong charges to attract and interact with another molecule that gasoline's weak LDF cannot provide, so the salt remains as a solid and does not interact with the gasoline.</p>
 </div>
 
 <div class="comparison-card">
 <h4>Nonpolar + Nonpolar</h4>
-<p>✅ Dissolves Well</p>
-<p>Weak attractions match up and allow mixing.</p>
-<p><b>Example:</b> Oil in gasoline</p>
+<p> Dissolves Well</p>
+perfecs are nonpolar compounds with similar LDF, so their molecules easily mix together and form a solution where the two inteact with each other.</p>
 </div>
 
 </div>
 
 <p class="principle">
-<strong>Key Takeaway:</strong> Polar substances dissolve in polar solvents, nonpolar substances dissolve in nonpolar solvents — and nonpolar substances generally will not dissolve in water.
+<strong>Polar substances dissolve in polar solvents, nonpolar substances dissolve in nonpolar solvents; and nonpolar substances generally will not dissolve in water.
 </p>
 
 <hr>
 
 <!-- ================= PART 2 ================= -->
 
-<h3>💧 Why Some Ionic Compounds Dissolve in Water and Others Do Not (5)</h3>
+<div style="font-weight: normal;">
+
+<h3>Why Some Ionic Compounds Dissolve in Water and Others Do Not</h3>
 
 <p class="highlight">
-<strong>Big Idea:</strong> Water can pull ions apart — but only when its attractions to them are strong enough.
+<strong>Main Idea:</strong> Polar and ionic substances dissolve well in water because water itself is polar and can strongly attract charged particles.
 </p>
 
 <p>
-Water molecules act like tiny magnets because one end is slightly positive and the other is slightly negative.
-When an ionic compound enters water, many water molecules surround each ion:
+Water molecules are polar. One side, the oxygen end, has a slight negative charge, and the other side,
+the hydrogen ends, has a slight positive charge. This charge lets water interact strongly with ions and other polar substances by pulling on other charged particles also known as polar or ionic.
+</p>
+
+<p>
+When an ionic compound is placed in water, the charges interact and attract to pull each other apart and dissolve and mix within each other:
 </p>
 
 <ul>
-<li>the oxygen end points toward positive ions</li>
-<li>the hydrogen ends point toward negative ions</li>
+<li>the oxygen in the H2O pulls on the positive particles (dipole or ionic interactions) letting the compound break down in the water as the oxygen splits it apart or bonds with it.</li>
+<li>the hydrogen sides point toward negative particles (dipole or ionic interactions) letting the compound break down in the water as the hydrogen splits it apart or bonds with it.</li>
 </ul>
 
 <p>
-This helps separate the ions from the solid and keeps them floating freely in solution.
+These attractions are called dipole forces. If they are strong enough (usually when the H2O is in contact with another polar substance), they pull charged particles away from the solid compound.
+Once separated, particles of water molecules surround the loose atoms and create loose bonds with them, preventing them from recombining, allowing them to move freely through the liquid.
 </p>
 
 <div class="comparison">
 
 <div class="comparison-card">
 <h4>NaCl (Table Salt)</h4>
-<p>Water strongly attracts both ions.</p>
-<p>The ions spread into solution.</p>
+<p>The attractions between Na+ and Cl- are moderate becasue the charge difference is not that vast.</p>
+<p>Because water is polar, it forms strong dipole interactions with both ions and pulls them out of the compound because water has a strong enough pull to overforce the Na+ and Cl- attractions.</p>
+<p>The separated particles are surrounded by water molecules.</p>
 <p><span style="color: green; font-weight: bold;">✓ Dissolves in Water</span></p>
 </div>
 
 <div class="comparison-card">
 <h4>MgO (Magnesium Oxide)</h4>
-<p>The ions attract each other extremely strongly.</p>
-<p>Water struggles to pull them apart.</p>
+<p>Mg2+ and O2- carry higher charges and attract each other very strongly due to the vast difference in charge.</p>
+<p>Even though water is polar, the forces holding this compound together are stronger than water's pull, so water does not dissolve it effectively due to its pull being weaker than the strength of the bond.</p>
+<p>Only a very small amount separates into if any.</p>
 <p><span style="color: red; font-weight: bold;">✗ Hardly Dissolves</span></p>
 </div>
 
+<div class="comparison-card">
+<h4>Oil (C₈H₁₈)</h4>
+<p>Oil is nonpolar and only has weak London Dispersion Forces.</p>
+<p>Water is polar with strong hydrogen bonds that cannot interact with nonpolar molecules because there are no charges in the oil for the water to interact with and pull against.</p>
+<p>Water molecules prefer to stay bonded to each other rather than surround the oil molecules becasue water cannot attract nonpolar molecules with no charge.</p>
+<p><span style="color: red; font-weight: bold;">✗ Does NOT Dissolve</span></p>
 </div>
 
-<div class="principle">
-<p><strong>Why MgO Stays Solid:</strong></p>
-<ul>
-<li>The ions have larger charges.</li>
-<li>They are packed very closely together.</li>
-<li>The attraction between them is extremely strong.</li>
-</ul>
+</div>
 
-<p>
-Because of this, water molecules cannot easily separate the ions, so very little MgO enters solution.
-</p>
 </div>
 
 </div>
